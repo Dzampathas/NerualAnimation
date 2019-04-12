@@ -17,15 +17,15 @@
   
 ## Timeline
 
-### Week 1
+#### Week 1
   Experiment with Neural Style and Discover limitations.
-### Week 2
+#### Week 2
   Proceed with knowledge of limitation. Make edits, or find other sources of code.
-### Week 3
+#### Week 3
   Neural Net refinements. 
-### Week 4
+#### Week 4
   2D Animation assets and tests.
-### Week 5
+#### Week 5
   3D Animation assets and test.
 ## References
 
