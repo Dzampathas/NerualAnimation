@@ -3,6 +3,7 @@
 ## Summery
 
   In the animation industry we spend so long trying to get finalize and clean up animation. I'm curious to explore what neural networks can do for the medium and how the process could be simplified or automated. Using an implementation of Neural Style in Tensor Flow https://github.com/anishathalye/neural-style to simplify the animation rendering/ clean up process. 
+  
   Whether this means an animator could do less work cleaning up their drawings, or if modelers and riggers could have less detailed and intricate models.It would be time saving to have a system that could remove the grunt work. Using primate Models, or rough sketches to have the clean up be finalized by a neural network might make animation even more accessible than ever.
 
 
