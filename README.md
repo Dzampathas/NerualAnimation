@@ -31,5 +31,8 @@
 
 
 https://github.com/anishathalye/neural-style 
+
 https://www.anishathalye.com/2015/12/19/an-ai-that-can-mimic-any-artist/ 
+
 https://news.developer.nvidia.com/ai-can-now-fix-your-grainy-photos-by-only-looking-at-grainy-photos/ 
+
