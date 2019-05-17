@@ -1,3 +1,6 @@
+https://github.com/Dzampathas/NerualAnimation/blob/master/Conclusion.md
+
+
 # Neural Animation Cleanup
 
 ## Summery
