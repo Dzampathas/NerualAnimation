@@ -17,3 +17,14 @@ I primarily used pix2pix tensorflow https://github.com/affinelayer/pix2pix-tenso
   Pix2pix is only one part of the picture for creating a neural network that could properly render 2D animation. Either having an optimal training set that exposes the network to every needed outcome, or creating a smarter algorithm that can identify parts of the sketch and generate images based on smaller but more intelligent information. 
 
 https://drive.google.com/open?id=1ea4RicU_uz0pfvFU8IBUbNEUrvBBU5Qj
+
+#### Training code
+
+> python pix2pix.py \
+  --mode train \
+  --output_dir al_train1 \
+  --max_epochs 300 \
+  --input_dir al_Anim1/ \
+  --which_direction AtoB
+  
+ 
